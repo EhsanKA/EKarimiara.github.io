@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Ekarimiara.github.io/al-folio/sitemap.xml
+Sitemap: https://EhsanKA.github.io/sitemap.xml
